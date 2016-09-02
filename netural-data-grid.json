@@ -1,6 +1,26 @@
 [
     {
-        "name":"name",
-        "key":"key"
+        "name":"1/12 Column",
+        "key":"1"
+    },
+    {
+        "name":"2/12 Column",
+        "key":"2"
+    },
+    {
+        "name":"3/12 Column",
+        "key":"3"
+    },
+    {
+        "name":"4/12 Column",
+        "key":"4"
+    },
+    {
+        "name":"6/12 Column",
+        "key":"6"
+    },
+    {
+        "name":"12/12 Column",
+        "key":"12"
     }
 ]
