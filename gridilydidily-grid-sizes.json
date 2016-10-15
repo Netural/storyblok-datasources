@@ -1,50 +1,50 @@
 [
     {
         "name":"1/12 Column",
-        "value":"1"
+        "value":"1/12"
     },
     {
         "name":"2/12 Column",
-        "value":"2"
+        "value":"2/12"
     },
     {
         "name":"3/12 Column",
-        "value":"3"
+        "value":"3/12"
     },
     {
         "name":"4/12 Column",
-        "value":"4"
+        "value":"4/12"
     },
     {
         "name":"5/12 Column",
-        "key":"5"
+        "value":"5/12"
     },
     {
         "name":"6/12 Column",
-        "value":"6"
+        "value":"6/12"
     },
     {
         "name":"7/12 Column",
-        "key":"7"
+        "value":"7/12"
     },
     {
         "name":"8/12 Column",
-        "key":"8"
+        "value":"8/12"
     },
     {
         "name":"9/12 Column",
-        "key":"9"
+        "value":"9/12"
     },
     {
         "name":"10/12 Column",
-        "key":"10"
+        "value":"10/12"
     },
     {
         "name":"11/12 Column",
-        "key":"11"
+        "value":"11/12"
     },
     {
         "name":"12/12 Column",
-        "value":"12"
+        "value":"12/12"
     }
 ]
