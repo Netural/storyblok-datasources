@@ -16,8 +16,32 @@
         "key":"4"
     },
     {
+        "name":"5/12 Column",
+        "key":"5"
+    },
+    {
         "name":"6/12 Column",
         "key":"6"
+    },
+    {
+        "name":"7/12 Column",
+        "key":"7"
+    },
+    {
+        "name":"8/12 Column",
+        "key":"8"
+    },
+    {
+        "name":"9/12 Column",
+        "key":"9"
+    },
+    {
+        "name":"10/12 Column",
+        "key":"10"
+    },
+    {
+        "name":"11/12 Column",
+        "key":"11"
     },
     {
         "name":"12/12 Column",
