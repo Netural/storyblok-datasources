@@ -1,98 +1,98 @@
 [
     {
         "name":"0 space top and bottom",
-        "value":"island-none"
+        "value":"island-inner-none"
     },
     {
         "name":"1/4 space top and bottom",
-        "value":"island-quarter"
+        "value":"island-inner-quarter"
     },
     {
         "name":"1/2 space top and bottom",
-        "value":"island-half"
+        "value":"island-inner-half"
     },
     {
         "name":"3/4 space top and bottom",
-        "value":"island-threequarter"
+        "value":"island-inner-threequarter"
     },
     {
         "name":"1 space top and bottom",
-        "value":"island"
+        "value":"island-inner"
     },
     {
         "name":"1 1/2 space top and bottom",
-        "value":"island-onehalf"
+        "value":"island-inner-onehalf"
     },
     {
         "name":"2 spaces top and bottom",
-        "value":"island-double"
+        "value":"island-inner-double"
     },
     {
         "name":"3 spaces top and bottom",
-        "value":"island-tripple"
+        "value":"island-inner-tripple"
     },
     {
         "name":"0 space top",
-        "value":"island-top-none"
+        "value":"island-inner-top-none"
     },
     {
         "name":"1/4 space top",
-        "value":"island-top-quarter"
+        "value":"island-inner-top-quarter"
     },
     {
         "name":"1/2 space top",
-        "value":"island-top-half"
+        "value":"island-inner-top-half"
     },
     {
         "name":"3/4 space top",
-        "value":"island-top-threequarter"
+        "value":"island-inner-top-threequarter"
     },
     {
         "name":"1 space top",
-        "value":"island-top"
+        "value":"island-inner-top"
     },
     {
         "name":"1 1/2 space top",
-        "value":"island-top-onehalf"
+        "value":"island-inner-top-onehalf"
     },
     {
         "name":"2 spaces top",
-        "value":"island-top-double"
+        "value":"island-inner-top-double"
     },
     {
         "name":"3 spaces top",
-        "value":"island-top-tripple"
+        "value":"island-inner-top-tripple"
     },
     {
         "name":"0 space bottom",
-        "value":"island-bottom-none"
+        "value":"island-inner-bottom-none"
     },
     {
         "name":"1/4 space bottom",
-        "value":"island-bottom-quarter"
+        "value":"island-inner-bottom-quarter"
     },
     {
         "name":"1/2 space bottom",
-        "value":"island-bottom-half"
+        "value":"island-inner-bottom-half"
     },
     {
         "name":"3/4 space bottom",
-        "value":"island-bottom-threequarter"
+        "value":"island-inner-bottom-threequarter"
     },
     {
         "name":"1 space bottom",
-        "value":"island-bottom"
+        "value":"island-inner-bottom"
     },
     {
         "name":"1 1/2 space bottom",
-        "value":"island-bottom-onehalf"
+        "value":"island-inner-bottom-onehalf"
     },
     {
         "name":"2 spaces bottom",
-        "value":"island-bottom-double"
+        "value":"island-inner-bottom-double"
     },
     {
         "name":"3 spaces bottom",
-        "value":"island-bottom-tripple"
+        "value":"island-inner-bottom-tripple"
     }
 ]
