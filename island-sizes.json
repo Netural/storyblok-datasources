@@ -1,0 +1,86 @@
+[
+    {
+        "name":"1/4 space top and bottom",
+        "value":"island-quarter"
+    },
+    {
+        "name":"1/2 space top and bottom",
+        "value":"island-half"
+    },
+    {
+        "name":"3/4 space top and bottom",
+        "value":"island-threequarter"
+    },
+    {
+        "name":"1 space top and bottom",
+        "value":"island"
+    },
+    {
+        "name":"1 1/2 space top and bottom",
+        "value":"island-onehalf"
+    },
+    {
+        "name":"2 spaces top and bottom",
+        "value":"island-double"
+    },
+    {
+        "name":"3 spaces top and bottom",
+        "value":"island-tripple"
+    },
+    {
+        "name":"1/4 space top",
+        "value":"island-top-quarter"
+    },
+    {
+        "name":"1/2 space top",
+        "value":"island-top-half"
+    },
+    {
+        "name":"3/4 space top",
+        "value":"island-top-threequarter"
+    },
+    {
+        "name":"1 space top",
+        "value":"island-top"
+    },
+    {
+        "name":"1 1/2 space top",
+        "value":"island-top-onehalf"
+    },
+    {
+        "name":"2 spaces top",
+        "value":"island-top-double"
+    },
+    {
+        "name":"3 spaces top",
+        "value":"island-top-tripple"
+    },
+    {
+        "name":"1/4 space bottom",
+        "value":"island-bottom-quarter"
+    },
+    {
+        "name":"1/2 space bottom",
+        "value":"island-bottom-half"
+    },
+    {
+        "name":"3/4 space bottom",
+        "value":"island-bottom-threequarter"
+    },
+    {
+        "name":"1 space bottom",
+        "value":"island-bottom"
+    },
+    {
+        "name":"1 1/2 space bottom",
+        "value":"island-bottom-onehalf"
+    },
+    {
+        "name":"2 spaces bottom",
+        "value":"island-bottom-double"
+    },
+    {
+        "name":"3 spaces bottom",
+        "value":"island-bottom-tripple"
+    }
+]
